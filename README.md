@@ -1,5 +1,5 @@
 # Pokemon Battle 
-<p align-"center" >
+<p align="center" >
 
 Two Pokemons Battling to the end!
 
