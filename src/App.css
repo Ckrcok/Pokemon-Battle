@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+#pokemon {
+  display: flex;
+  font-style: normal;
+  justify-content: space-around;
+}
